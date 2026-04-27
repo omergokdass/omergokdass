@@ -55,37 +55,7 @@ Improve backend performance and maintainability
   />
 </p>
 
----
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-## 📊 LeetCode
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/omergokdass?theme=dark&font=Fira+Code&ext=contest" />
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-## 🧩 Backend Mindset
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🌐 Connect
+## 
 
 <p align="center">
   <a href="https://linkedin.com/in/omergokdass">
@@ -99,10 +69,4 @@ Improve backend performance and maintainability
   <a href="https://drive.google.com/file/d/1pr5t9RBEdkWVvKKjbhiE9COPsuX9Q0FW/view?usp=drive_link">
     <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" height="42"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Building backend systems that work in real-world conditions."</i>
 </p>

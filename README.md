@@ -1,98 +1,102 @@
-# Hey, I'm Omer 👋
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=22C55E&center=true&vCenter=true&width=420&lines=Hey%2C+I'm+%C3%96mer+%F0%9F%91%8B"
+  />
+</p>
 
-### Backend Developer • System-Focused Engineer
-
+<h3 align="center">Backend Developer • System-Focused Engineer</h3>
 ---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="45%" valign="top" align="center">
 
 ## 🧠 About Me
 
-I'm a software engineering student focused on **backend development and real-world systems**.
+Backend-focused software engineering student
+Experienced with API-based systems
+Strong in system troubleshooting
+Based in Istanbul, Turkey
 
-* ⚙️ Experienced with **API-based systems & client-server architecture**
-* 🧩 Strong background in **system troubleshooting & IT infrastructure**
-* 🔍 Interested in **backend performance, architecture & scalability**
-* 📍 Based in Istanbul, Turkey
+</td>
 
----
+<td width="45%" valign="top" align="center">
 
 ## ⚡ What I Do
 
-* Build **RESTful APIs and backend services**
-* Work with **real-time systems (WebSocket)**
-* Handle **system-level issues & debugging**
-* Understand how software interacts with **networks and infrastructure**
+Build RESTful APIs
+Develop backend services
+Work with real-time systems
+Debug real-world system issues
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
-
-`C` `JavaScript`
-
-### 🧠 Backend
-
-`Node.js` `Express.js` `REST APIs` `WebSocket`
-
-### 🗄️ Databases
-
-`MongoDB` `MySQL`
-
-### ⚙️ Systems & DevOps
-
-`Linux` `Docker (basic)` `Process Management` `Multithreading`
-
-### 🌐 Other
-
-`Git` `WordPress`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,nodejs,express,mysql,redis,linux,docker,git" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-🔹 **NishChat**
-Real-time chat application with authentication and room-based messaging.
-Implemented using WebSocket architecture for live communication.
-**Tech:** `React Native • Node.js • Socket.io • JWT`
+<div align="center">
 
-🔹 **Web Projects (Freelance)**
-Developed responsive websites with focus on usability and SEO optimization.
-Handled deployment and client-side requirements.
-**Tech:** `HTML • CSS • JavaScript • WordPress`
+<table>
+<tr>
+<td width="33%" align="center">
+  <b>NishChat</b><br/>
+  Real-time chat app<br/>
+  <sub>React Native • Node.js • Socket.io • JWT</sub>
+</td>
+<td width="33%" align="center">
+  <b>Freelance Web Projects</b><br/>
+  Responsive websites<br/>
+  <sub>HTML • CSS • JavaScript • WordPress</sub>
+</td>
+<td width="33%" align="center">
+  <b>System Projects</b><br/>
+  Algorithm & process-based projects<br/>
+  <sub>minishell • push_swap • philosophers</sub>
+</td>
+</tr>
+</table>
 
-🔹 **System & Algorithm Projects**
-Worked on multiple projects focused on algorithms and system behavior.
-Improved problem-solving and understanding of concurrency.
-**Projects include:** `minishell • push_swap • philosophers`
-
----
-
-## 🎯 Current Focus
-
-* Backend development & API design
-* Real-time systems
-* Improving system-level understanding
-
----
-
-## 🌐 Portfolio & Contact
+</div>
 
 <p align="center">
-  <a href="https://omergokdass.github.io">
-    Portfolio
-  </a>
-  •
+  <i>For more projects and source code, check out my repositories.</i>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
   <a href="https://linkedin.com/in/omergokdass">
-    LinkedIn
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  •
+  &nbsp;&nbsp;
   <a href="https://github.com/omergokdass">
-    GitHub
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://omergokdass.github.io">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="40"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"I build systems that work in the real world — not just in theory."</i>
+  <i>"Build systems that work in real-world conditions."</i>
 </p>
